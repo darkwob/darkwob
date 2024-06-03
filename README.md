@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Sadık Sefa and I am a Jr. Full Stack Developer. My strong skills include front-end and back-end web development. In particular, I develop web applications using languages like HTML, CSS, JavaScript, and PHP. I also have experience in database technologies like MySQL and MSSQL, as well as Agile methodologies. In the past, I have worked on projects for various startups and corporate companies and I enjoy working in a team. Currently, I am looking for new opportunities and am seeking a company that can support me in my next step.
+Hello! My name is Sadık Sefa and I am a Full Stack Developer. My strong skills include front-end and back-end web development. In particular, I develop web applications using languages like HTML, CSS, JavaScript, and PHP. I also have experience in database technologies like MySQL and MSSQL, as well as Agile methodologies. In the past, I have worked on projects for various startups and corporate companies and I enjoy working in a team. Currently, I am looking for new opportunities and am seeking a company that can support me in my next step.
 
 
 ## 🌐 Socials:
